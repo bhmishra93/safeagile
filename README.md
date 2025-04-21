@@ -14,6 +14,8 @@ Select SAFe configuration BIG PICTURE ESSENTIAL LARGE SOLUTION PORTFOLIO FULL SA
 ## Large Solution SAFE agile 
 
 
+![Large Solution](Screenshot%202025-04-20%20at%205.50.31%20PM.png "3" )
+
 # Portfolio 
 
 # Full
