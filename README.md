@@ -3,7 +3,9 @@ SAFe Big Picture An interactive visual guide to the roles, activities, and artif
 Click any icon to explore detailed guidance for each element or use the tabs at the top to view the four SAFe configurations. 
 Select SAFe configuration BIG PICTURE ESSENTIAL LARGE SOLUTION PORTFOLIO FULL SAFe Disciplines  Broad fields of practice that help organizations and individuals build mastery across related areas of competence essential to achieving Agility. Click any Discipline to explore deeper guidance, including the core competencies, skills, and behaviors needed to accelerate outcomes at scale. Leadership and Culture Team and Technical Agility Product Development Flow Large Solution Integration and Delivery Lean Portfolio Management
 
+## Big picture SAFE agile 
 
+![Big Picture]("Screenshot 2025-04-20 at 5.50.02 PM.png" "a title")
 
 © Scaled Agile, Inc.
 Include this copyright notice with the copied content.
