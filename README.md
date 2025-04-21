@@ -18,7 +18,10 @@ Select SAFe configuration BIG PICTURE ESSENTIAL LARGE SOLUTION PORTFOLIO FULL SA
 
 # Portfolio 
 
+![Portfolio](Screenshot%202025-04-20%20at%205.50.37%20PM.png "4")
+
 # Full
+
 
 
 © Scaled Agile, Inc.
