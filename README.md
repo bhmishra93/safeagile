@@ -22,7 +22,7 @@ Select SAFe configuration BIG PICTURE ESSENTIAL LARGE SOLUTION PORTFOLIO FULL SA
 
 # Full
 
-![Full](Screenshot%202025-04-20%20at%205.50.46%20PM.png , "5")
+![Full](Screenshot%202025-04-20%20at%205.50.46%20PM.png "5")
 
 
 © Scaled Agile, Inc.
