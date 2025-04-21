@@ -9,7 +9,7 @@ Select SAFe configuration BIG PICTURE ESSENTIAL LARGE SOLUTION PORTFOLIO FULL SA
 
 ## Essential SAFE agile 
 
-![Essential](Screenshot%202025-04-20%20at%205.50.19%20PM.png "Essential")
+![Essential](Screenshot%202025-04-20%20at%205.50.25%20PM.png "Essential")
 
 ## Large Solution SAFE agile 
 
