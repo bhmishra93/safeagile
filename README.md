@@ -5,7 +5,7 @@ Select SAFe configuration BIG PICTURE ESSENTIAL LARGE SOLUTION PORTFOLIO FULL SA
 
 ## Big picture SAFE agile 
 
-![Big Picture]("Screenshot 2025-04-20 at 5.50.02 PM.png" "a title")
+![Big Picture](Screenshot%202025-04-20%20at%205.50.02%20PM.png "a title")
 
 © Scaled Agile, Inc.
 Include this copyright notice with the copied content.
